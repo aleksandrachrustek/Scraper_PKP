@@ -1,0 +1,417 @@
+relacja,liczba_lat
+Przemyśl Gł. -> Berlin Hbf,5
+Mockava -> Kraków Gł.,5
+Kraków Gł. -> Bohumin,5
+Warszawa Wschodnia -> Bohumin,5
+Warszawa Wschodnia -> Berlin Hbf,5
+Kyiv - Pas. -> Chełm,5
+Kyiv - Pas. -> Przemyśl Gł.,5
+Gdynia Gł. -> Berlin Hbf,4
+Zaporizhzhia I -> Przemyśl Gł.,3
+Graz Hbf -> Kraków Gł.,3
+Bohumin -> Kołobrzeg,3
+Wrocław Gł. -> Leipzig Hbf,3
+Warszawa Wschodnia -> Vršovice,3
+Dnipro Hl. -> Chełm,3
+Bohumin -> Lublin Gł.,3
+Wien Westbf -> Warszawa Wschodnia,3
+Bohumin -> Poznań Gł.,3
+Bohumin -> Przemyśl Gł.,3
+Bohumin -> Wrocław Gł.,3
+Bohumin -> Łeba,3
+Graz Hbf -> Przemyśl Gł.,3
+Chełm -> Pas.,3
+Budapest - Nyugati -> Warszawa Wschodnia,3
+Zaporizhzhia I -> Hl.,3
+Warszawa Wschodnia -> Svinov,3
+Wien Hbf -> Gdynia Gł.,3
+Wien Hbf -> Katowice,3
+Wien Hbf -> Warszawa Wschodnia,3
+Wien Westbf -> Katowice,3
+Wien Westbf -> Kraków Gł.,3
+ -> ,3
+Warszawa Wschodnia -> Praha hl.n.,3
+Kraków Gł. -> Berlin Hbf,3
+Mockava -> Szczecin Gł.,3
+Przemyśl Gł. -> Charlottenburg,3
+Przemyśl Gł. -> Graz Hbf,3
+Praha hl.n. -> Gdynia Gł.,3
+Przemyśl Gł. -> Praha hl.n.,3
+Przemyśl Gł. -> Vršovice,3
+Rava Ruskaia -> Lublin Gł.,3
+Warszawa Wschodnia -> München Hbf,3
+Berlin Hbf -> Gdynia Gł.,3
+Gdynia Gł. -> Praha hl.n.,3
+Kyiv - Pas. -> Warszawa Wschodnia,3
+Kraków Gł. -> Mockava,3
+Warszawa Wschodnia -> Berlin Charlottenburg,3
+Mockava -> Suwałki,3
+Kharkiv - Pas. -> Chełm,2
+Praha hl.n. -> Przemyśl Gł.,2
+Wrocław Gł. -> Bohumin,2
+Przemyśl Gł. -> Kryvyi Rih,2
+Graz Hbf -> Berlin Charlottenburg,2
+Przemyśl Gł. -> Pas.,2
+Kraków Gł. -> Wien Westbf,2
+Warszawa Wschodnia -> Wien Westbf,2
+Kryvyi Rih -> Przemyśl Gł.,2
+Kyiv - Pas. -> Kharkiv,2
+Odessa Hl. -> Przemyśl Gł.,2
+Kharkiv -> Pas.,2
+Odessa Hl. -> Kiev Pass.,2
+Kharkiv - Pas. -> Przemyśl Gł.,2
+Berlin Hbf -> Przemyśl Gł.,2
+Budapest - Nyugati -> Terespol,2
+Berlin Hbf -> Warszawa Wschodnia,2
+Bohumin -> Warszawa Wschodnia,2
+Berlin - Gesundbrunnen -> Przemyśl Gł.,2
+Bohumin -> Hel,2
+Łeba -> Bohumin,2
+Ustka -> Biała Gł.,1
+Terespol 18:37/Warszawa Wsch. -> Poznań Gł.,1
+Terespol -> Warszawa Zachodnia,1
+Terespol -> Warszawa Wschodnia,1
+Terespol -> Poznań Gl.,1
+Tczew -> Bydgoszcz Gł.,1
+Łódź Fabr. -> Warszawa Gł.,1
+Szklarska Poręba Grn. 15:30/Jelenia Góra -> Warszawa Wschodnia,1
+Szklarska Poręba Grn. -> Warszawa Wschodnia,1
+Szczecinek -> Warszawa Wschodnia,1
+Szczecin Gł. -> Łódź Fabr.,1
+Szczecin Gł. -> Zakopane,1
+Szczecin Gł. -> Wrocław Gł.,1
+Szczecin Gł. -> Warszawa Wschodnia,1
+Szczecin Gł. -> Warszawa Gł.,1
+Ustka -> Kraków Gł.,1
+Łódź Fabr. -> Słupsk 12:17/Kołobrzeg,1
+Łódź Fabr. -> Warszawa Centralna,1
+Warszawa Gł. -> Poznań Gł.,1
+Łódź Fabr. -> Hel,1
+Łódź Fabr. -> Kołobrzeg,1
+Warszawa Wschodnia -> ,1
+Warszawa Gł. -> Zakopane,1
+Warszawa Gł. -> Wrocław Gł.,1
+Warszawa Gł. -> Szczecin Gł.,1
+Łódź Fabr. -> Kraków Gł.,1
+Warszawa Centralna -> Wrocław Gł.,1
+Łódź Fabr. -> Szczecin Gł.,1
+Warszawa Centralna -> Olsztyn Gł.,1
+Warszawa Centralna -> Kraków Gł.,1
+Warszawa Centralna -> Gdynia Gł.,1
+Warszawa Centralna -> Białystok,1
+Ustka -> Przemyśl Gł.,1
+Ustka -> Poznań Gł.,1
+Łódź Fabr. -> Olsztyn Gł.,1
+Łódź Fabr. -> Warszawa Wschodnia,1
+Zakopane -> Szczecin Gł.,1
+Łódź Fabr. -> Gdynia Gł.,1
+Łódź Kaliska -> Warszawa Wschodnia,1
+Płock -> Katowice,1
+Przemyśl Gł. -> Świnoujście,1
+Przemyśl Gł. -> Zielona Góra Gł.,1
+Przemyśl Gł. -> Zaporizhzhia I,1
+Przemyśl Gł. -> Wrocław Gł.,1
+Przemyśl Gł. -> Warszawa Wschodnia,1
+Świnoujście -> ,1
+Przemyśl Gł. -> Szczecin Gł.,1
+Świnoujście -> Kraków Gł.,1
+Świnoujście -> Przemyśl Gł.,1
+Przemyśl Gł. -> Kyiv Pass.,1
+Świnoujście -> Suwałki,1
+Świnoujście -> Warszawa Wschodnia,1
+Świnoujście -> Wrocław Gł.,1
+Przemyśl Gł. -> Kraków Gł.,1
+Świnoujście -> Zakopane,1
+Świnoujście 16:02 / Szczecin Gł. -> Warszawa Wschodnia,1
+Racibórz -> Olsztyn Gł.,1
+Rzeszów Gł. -> ,1
+Szczecin Gł. -> Przemyśl Gł.,1
+Rzeszów Gł. -> Gdynia Gł.,1
+Szczecin Gł. -> Pisz,1
+Łódź Fabryczna -> Gdynia Gł.,1
+Szczecin Gł. -> Olsztyn Gł.,1
+Szczecin Gł. -> Mockava,1
+Szczecin Gł. -> Lublin Gł.,1
+Szczecin Gł. -> Kraków Główny,1
+Szczecin Gł. -> Kraków Gł.,1
+Szczecin Gł. -> Kołobrzeg,1
+Szczecin Gł. -> Kamień Pomorski,1
+Szczecin Gł. -> Gdańsk Gł.,1
+Szczecin Gł. -> Chełm,1
+Szczecin Gł. -> Białystok,1
+Szczecin Gł. -> ,1
+Suwałki -> Świnoujście,1
+Suwałki -> Mockava,1
+Sandomierz -> Warszawa Wschodnia,1
+Rzeszów Gł. -> Piła Gł.,1
+Warszawa Wschodnia -> Biała Gł.,1
+Warszawa Wschodnia -> Bydgoszcz Gł.,1
+Warszawa Wschodnia -> Białystok,1
+WarszawaWsch. -> Nyugati,1
+Wrocław Gł. -> Kielce Gł.,1
+Wrocław Gł. -> Jelenia Góra,1
+Wrocław Gł. -> Gdynia Gł.,1
+Zakopane 11:34/Kraków Gł. -> Gdynia Gł.,1
+Wrocław Gł. -> Białystok,1
+Wisła Uzdrowisko -> Warszawa Wschodnia,1
+Zakopane 12:13/Kraków Gł. -> Gdynia Gł.,1
+Zaporizhzhia 1 -> Hl.,1
+Zaporizhzhia 1 -> Przemyśl Gł.,1
+Zbąszynek -> Gorzów Wlkp.,1
+Zgorzelec -> Warszawa Wschodnia,1
+Zielona Góra Gł. -> Białystok,1
+Wien Westbf -> ,1
+Wien Westbahnhof -> Warszawa Wschodnia,1
+Zielona Góra Gł. -> Chełm,1
+Wien Hbf -> Kraków Gł.,1
+Zielona Góra Gł. -> Gdynia Gł.,1
+Wrocław Gł. -> Kołobrzeg,1
+Wrocław Gł. -> Kraków Pł.,1
+Zakopane -> Świnoujście,1
+Wrocław Gł. -> Zdrój,1
+Zakopane -> Kołobrzeg,1
+Zakopane -> Gdynia Gł.,1
+Zakopane -> Chabówka,1
+Zakopane -> Bydgoszcz Gł.,1
+Zakopane -> ,1
+Zagórz -> Kraków Gł.,1
+Wrocław Gł. -> Świnoujście,1
+Wrocław Gł. -> Warszawa Wschodnia,1
+Wrocław Gł. -> Lublin Gł.,1
+Wrocław Gł. -> Warszawa Gł.,1
+Wrocław Gł. -> Szczecin Gł.,1
+Zakopane -> Warszawa Wschodnia,1
+Wrocław Gł. -> Przemyśl Gł.,1
+Wrocław Gł. -> Przemysl Gł.,1
+Wrocław Gł. -> Poznań Gł.,1
+Wrocław Gł. -> Olsztyn Gł.,1
+Zielona Góra Gł. -> Lublin Gł.,1
+Warszawa Zachodnia -> Terespol,1
+Łódź Fabr. -> Białystok,1
+Warszawa Zachodnia -> Pas.,1
+Warszawa Wschodnia -> Terespol,1
+Warszawa Wschodnia -> Szklarska Poręba Grn.,1
+Warszawa Wschodnia -> Szczecin Gł. 10:31 / Świnoujście,1
+Warszawa Wschodnia -> Szczecin Gł.,1
+Warszawa Wschodnia -> Sandomierz,1
+Warszawa Wschodnia -> Przemyśl Gł.,1
+Warszawa Wschodnia -> Pas.,1
+Łeba -> Kraków Gł.,1
+Warszawa Wschodnia -> Nyugati,1
+Łeba -> Lębork,1
+Łeba 14:03 / Lębork -> Warszawa Zachodnia,1
+Warszawa Wschodnia -> Lublin Gł.,1
+Warszawa Wschodnia -> Kraków Gł.,1
+Warszawa Wschodnia -> Kołobrzeg,1
+Warszawa Wschodnia -> Jelenia Góra 11:44/Szklarska Poręba Grn.,1
+Warszawa Wschodnia -> Jelenia Góra,1
+Zakopane -> Poznań Gł.,1
+Zielona Góra Gł. -> Warszawa Wschodnia,1
+Warszawa Wschodnia -> Warszawa Gdańska,1
+Warszawa Wschodnia -> Warszawa Gł.,1
+Warszawa Wschodnia -> Świnoujście,1
+Warszawa Zachodnia -> Olsztyn Gł.,1
+Warszawa Zachodnia -> Lębork 12:28 / Łeba,1
+Warszawa Zachodnia -> Lębork,1
+Warszawa Zachodnia -> Hel,1
+Warszawa Zachodnia -> Gdynia Gł.,1
+Warszawa Zachodnia -> ,1
+Warszawa Wschodnia -> Żywiec,1
+Warszawa Wschodnia -> Łódź Fabr.,1
+Warszawa Wschodnia -> Wien Westbahnhof,1
+Zielona Góra Gł. -> Poznań Gł.,1
+Zielona Góra Gł. -> Przemyśl Gł.,1
+Warszawa Wschodnia -> Zielona Góra Gł.,1
+Warszawa Wschodnia -> Zgorzelec,1
+Warszawa Wschodnia -> Zakopane,1
+Warszawa Wschodnia -> Wrocław Gł.,1
+Warszawa Wschodnia -> Wisła Uzdrowisko,1
+Przemyśl Gł. -> Bohumin,1
+Poznań Gł. -> Gdynia Gł.,1
+Przemyśl Gł. -> ,1
+Gdynia Gł. -> Wrocław Gł.,1
+Gorzów Wlkp. -> Gdynia Gł.,1
+Gliwice -> Kielce Gł.,1
+Gliwice -> Gdynia Gł.,1
+Gliwice -> Białystok,1
+Giżycko -> Kraków Gł.,1
+Gdynia Gł. -> Łódź Kaliska,1
+Gdynia Gł. -> Łódź Fabr.,1
+Gdynia Gł. -> Zielona Góra Gł.,1
+Gdynia Gł. -> Zakopane,1
+Gdynia Gł. -> Warszawa Zachodnia,1
+Gdynia Gł. -> Bydgoszcz Gł.,1
+Gdynia Gł. -> Rzeszów Gł.,1
+Gdynia Gł. -> Poznań Gł.,1
+Gdynia Gł. -> Kraków Gł. 13:19/Zakopane,1
+Gdynia Gł. -> Kraków Gł. 12:53/Zakopane,1
+Gdynia Gł. -> Kraków Gł.,1
+Gdynia Gł. -> Kostrzyn,1
+Gdynia Gł. -> Katowice,1
+Gdynia Gł. -> Hel,1
+Gdynia Gł. -> Gorzów Wlkp.,1
+Gorzów Wlkp. -> Jarocin,1
+Gorzów Wlkp. -> Poznań Gł.,1
+Gorzów Wlkp. -> Zbąszynek,1
+Hel -> Bielsko Biała Gł.,1
+Katowice -> Wien Westbf,1
+Katowice -> Płock,1
+Katowice -> Kielce Gł.,1
+Katowice -> Gdynia Gł.,1
+Kamień Pomorski -> Szczecin Gł.,1
+Jelenia Góra -> Wrocław Gł.,1
+Jelenia Góra -> Warszawa Wschodnia,1
+Jelenia Góra -> Kraków Gł.,1
+Jelenia Góra -> Gdynia Gł.,1
+Jelenia Góra -> ,1
+Jarocin -> Gorzów Wlkp.,1
+Inowrocław -> Poznań Gł.,1
+Hrubieszów Miasto -> Lublin Gł.,1
+Hrubieszów Miasto -> Kraków Gł.,1
+Hel -> Łódź Fabr.,1
+Hel -> Warszawa Zachodnia,1
+Hel -> Kraków Gł.,1
+Hel -> Gdynia Gł.,1
+Hel -> Bohumin,1
+Gdynia Gł. -> Gliwice,1
+Gdynia Gł. -> Bielsko Biała Gł.,1
+Kielce Gł. -> Gliwice,1
+Bialystok -> Wrocław Gł.,1
+Białystok -> Wrocław Gł.,1
+Białystok -> Warszawa Wschodnia,1
+Białystok -> Warszawa Centralna,1
+Białystok -> Szczecin Gł.,1
+Białystok -> Poznań Gł.,1
+Białystok -> Olsztyn Gł.,1
+Białystok -> Gliwice,1
+Białystok -> Gdynia Gł.,1
+Białystok -> Biała Gł.,1
+Berlin Hbf -> ,1
+Gdynia Gł. -> Białystok,1
+ -> Wrocław Gł.,1
+ -> Warszawa Zachodnia,1
+ -> Warszawa Wschodnia,1
+ -> Ustka,1
+ -> Przemyśl Gł.,1
+ -> Kraków Gł.,1
+ -> Kołobrzeg,1
+ -> Gdynia Gł.,1
+ -> Chełm,1
+Białystok -> Zielona Góra Gł.,1
+Białystok -> Łódź Fabr.,1
+Bielsko Biała Gł. -> Gdynia Gł.,1
+Bielsko Biała Gł. -> Hel,1
+Gdynia Gł. -> Biała Gł.,1
+Gdynia Gł. -> ,1
+Gdańsk Gł. -> Szczecin Gł.,1
+Dnipro -> Chełm,1
+Chełm -> Zielona Góra Gł.,1
+Chełm -> Szczecin Gł.,1
+Chełm -> Poznań Gł.,1
+Chełm -> Dnipro Hl.,1
+Chełm -> Dnipro,1
+Chełm -> ,1
+Chabówka -> Zakopane,1
+Bydgoszcz Gł. -> Zakopane,1
+Bydgoszcz Gł. -> Warszawa Wschodnia,1
+Bydgoszcz Gł. -> Tczew,1
+Bydgoszcz Gł. -> Lublin Gł.,1
+Bydgoszcz Gł. -> Gdynia Gł.,1
+Bydgoszcz Gł. -> ,1
+Bohumin -> Kraków Gł.,1
+Bielsko Biała Gł. -> Kołobrzeg,1
+Kharkiv -> Przemyśl Gł.,1
+Kielce Gł. -> Katowice,1
+Przemyśl Gl. -> Ustka,1
+Odessa Hl. -> Pas.,1
+Olsztyn Gł. -> Łódź Fabr.,1
+Olsztyn Gł. -> Wrocław Gł.,1
+Olsztyn Gł. -> Warszawa Zachodnia,1
+Olsztyn Gł. -> Szczecin Gł.,1
+Olsztyn Gł. -> Racibórz,1
+Olsztyn Gł. -> Poznań Gł.,1
+Olsztyn Gł. -> Kraków Gł.,1
+Olsztyn Gł. -> Białystok,1
+Olsztyn Gl. -> Lębork,1
+München Hbf -> Bohumin,1
+Lublin Gł. -> Rava Ruskaia,1
+München Hbf -> ,1
+Mockava -> ,1
+Lębork -> Łeba,1
+Lębork -> Warszawa Wschodnia,1
+Lębork -> Olsztyn Gł.,1
+Lublin Gł. -> Zielona Góra Gł.,1
+Lublin Gł. -> Wrocław Gł.,1
+Lublin Gł. -> Warszawa Wschodnia,1
+Lublin Gł. -> Szczecinek,1
+Pila Gł. -> Kołobrzeg,1
+Pisz -> Szczecin Gł.,1
+Piła Gł. -> Rzeszów Gł.,1
+Poznań Gł. -> ,1
+Przemyśl Gl. -> Poznań Gł.,1
+Przemyśl Gl. -> Kołobrzeg,1
+Praha hl.n. -> Warszawa Wschodnia,1
+Poznań Gł. -> Zielona Góra Gł.,1
+Poznań Gł. -> Zakopane,1
+Poznań Gł. -> Wrocław Gł.,1
+Poznań Gł. -> Warszawa Wschodnia,1
+Poznań Gł. -> Warszawa Gł.,1
+Poznań Gł. -> Ustka,1
+Poznań Gł. -> Terespol,1
+Poznań Gł. -> Przemyśl Gł.,1
+Poznań Gł. -> Olsztyn Gł.,1
+Poznań Gł. -> Kraków Gł.,1
+Poznań Gł. -> Inowrocław,1
+Poznań Gł. -> Gorzów Wlkp.,1
+ -> Białystok,1
+Poznań Gł. -> Chełm,1
+Poznań Gł. -> Bohumin,1
+Poznań Gł. -> Bialystok,1
+Lublin Gł. -> Szczecin Gł.,1
+Lublin Gł. -> Kraków Gł.,1
+Kielce Gł. -> Wrocław Gł.,1
+Kołobrzeg -> Wrocław Gł.,1
+Kraków Gł. -> Hel,1
+Kraków Gł. -> Graz Hbf,1
+Kraków Gł. -> Giżycko,1
+Kraków Gł. -> Gdynia Gł.,1
+Kraków Gł. -> Biała Gł.,1
+Kraków Gł. -> ,1
+Kołobrzeg 14:15/Słupsk -> Łódź Fabr.,1
+Kołobrzeg -> Łódź Fabr.,1
+Kołobrzeg -> Zakopane,1
+Kołobrzeg -> Warszawa Wschodnia,1
+Lublin Gł. -> Hrubieszów Miasto,1
+Kołobrzeg -> Szczecin Gł.,1
+Kołobrzeg -> Przemyśl Gł.,1
+Kołobrzeg -> Piła Gł.,1
+Kołobrzeg -> Kraków Gł.,1
+Kołobrzeg -> Bohumin,1
+Kołobrzeg -> Bielsko Biała Gł.,1
+Kołobrzeg -> Biała Gł.,1
+Kozłów -> Szczecin Gł.,1
+Kostrzyn -> Gdynia Gł.,1
+Kraków Gł. -> Hrubieszów Miasto,1
+Kraków Gł. -> Jelenia Góra,1
+Kraków Gł. -> Kołobrzeg,1
+Kraków Gł. -> Krynica Zdrój,1
+Lublin Gł. -> Bydgoszcz Gł.,1
+Leipzig Hbf -> Wrocław Gł.,1
+Kyiv - Pas. -> Warszawa Zachodnia,1
+Krynica Zdrój -> Kraków Gł.,1
+Kraków Pł. -> Wrocław Gł.,1
+Kraków Gł. -> Świnoujście,1
+Kraków Gł. -> Łódź Fabr.,1
+Kraków Gł. -> Łeba,1
+Kraków Gł. -> Zdrój,1
+Kraków Gł. -> Zagórz,1
+Kraków Gł. -> Wrocław Gł.,1
+Kraków Gł. -> Wien Hbf,1
+Kraków Gł. -> Warszawa Wschodnia,1
+Kraków Gł. -> Ustka,1
+Kraków Gł. -> Szczecin Gł.,1
+Kraków Gł. -> Przemyśl Gł.,1
+Kraków Gł. -> Poznań Gł.,1
+Kraków Gł. -> Olsztyn Gł.,1
+Kraków Gł. -> Lublin Gł.,1
+Żywiec -> Warszawa Wschodnia,1
